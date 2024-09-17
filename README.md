@@ -6,22 +6,22 @@ Welcome to the official repository for **ENGR4450 - Applied Artificial Intellige
 
 This repository contains the following tutorials, each focusing on key topics in applied artificial intelligence:
 
-1. **1_intro_to_linear_models_and_scikit_learn.ipynb**  
+- **1_intro_to_linear_models_and_scikit_learn.ipynb**  
    An introduction to linear models and an overview of the `scikit-learn` library for AI and machine learning in Python.
 
-2. **2_linear_models.ipynb**  
+- **2_linear_models.ipynb**  
    Detailed exploration of linear models including Linear Regression, Ridge, Lasso, and ElasticNet.
 
-3. **3_k_nearest_neighbors.ipynb**  
+- **3_k_nearest_neighbors.ipynb**  
    Explanation and implementation of the K-Nearest Neighbors (KNN) algorithm.
 
-4. **4_support_vector_machines.ipynb**  
+- **4_support_vector_machines.ipynb**  
    A guide to Support Vector Machines (SVMs) for classification and regression tasks.
 
-5. **5_neural_networks.ipynb**  
+- **5_neural_networks.ipynb**  
    Introduction to artificial neural networks (ANNs), covering the basics of perceptrons and multi-layer perceptrons (MLPs).
 
-6. **6_convolutional_neural_networks.ipynb**  
+- **6_convolutional_neural_networks.ipynb**  
    An introduction to Convolutional Neural Networks (CNNs), designed for image classification tasks.
 
 ## Sources
