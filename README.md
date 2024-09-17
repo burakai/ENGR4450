@@ -31,8 +31,8 @@ To run these notebooks locally, follow the steps below:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/engr4450-ai-course.git
-cd engr4450-ai-course
+git clone https://github.com/burakai/ENGR4450.git
+cd ENGR4450
 ```
 2. Set up a virtual environment (optional but recommended)
 
@@ -43,7 +43,7 @@ source env/bin/activate   # On Windows use `env\Scripts\activate`
 ```
 3. Install dependencies
 
-All required dependencies are listed in the requirements.txt file. You can install them using pip:
+All required dependencies are listed in the `requirements.txt` file. You can install them using `pip`:
 ```bash
 pip install -r requirements.txt
 ```
@@ -53,8 +53,15 @@ Once dependencies are installed, launch Jupyter Notebook to access the tutorials
 ```bash
 jupyter notebook
 ```
+or use Jupyter Lab insteaf:
+
+```bash
+jupyter lab
+```
 This will open Jupyter in your default web browser. You can navigate to the notebooks and run them interactively.
 
+Alternatively, you can click # Support Vector Machines (SVM) <a href="https://colab.research.google.com/github/burakai/ENGR4450/blob/main/4_support-vector-machines.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+button to open notebook in Google Colab.
 
 ## Sources
 
