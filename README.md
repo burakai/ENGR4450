@@ -1,6 +1,6 @@
-# ENGR4450 - Applied Artificial Intelligence (AI) Course Materials
+# ENGR4450 - Applied Artificial Intelligence (AI) Tutorials
 
-Welcome to the official GitHub repository for **ENGR4450 - Applied Artificial Intelligence (AI)**, a course offered at **Işık University**. This repository contains six Jupyter notebooks (tutorials) prepared by **Burak KILIC**, the course assistant, under the supervision of **Assoc. Prof. Ali Taner KUZU**.
+Welcome to the official repository for **ENGR4450 - Applied Artificial Intelligence (AI)**, a course offered at **Işık University**. This repository contains six Jupyter notebooks (tutorials) prepared by **Burak KILIC**, the course assistant, under the supervision of **Assoc. Prof. Ali Taner KUZU**.
 
 ## Course Tutorials
 
