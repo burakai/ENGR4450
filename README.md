@@ -24,6 +24,38 @@ This repository contains the following tutorials, each focusing on key topics in
 - **6_convolutional_neural_networks.ipynb**  
    An introduction to Convolutional Neural Networks (CNNs), designed for image classification tasks.
 
+## Installation
+
+To run these notebooks locally, follow the steps below:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/engr4450-ai-course.git
+cd engr4450-ai-course
+```
+2. Set up a virtual environment (optional but recommended)
+
+It is recommended to create a virtual environment to isolate dependencies.
+```bash
+python -m venv env
+source env/bin/activate   # On Windows use `env\Scripts\activate`
+```
+3. Install dependencies
+
+All required dependencies are listed in the requirements.txt file. You can install them using pip:
+```bash
+pip install -r requirements.txt
+```
+4. Launch Jupyter Notebook
+
+Once dependencies are installed, launch Jupyter Notebook to access the tutorials:
+```bash
+jupyter notebook
+```
+This will open Jupyter in your default web browser. You can navigate to the notebooks and run them interactively.
+
+
 ## Sources
 
 The primary source of reference for the tutorials is the official [scikit-learn documentation](https://scikit-learn.org/stable/documentation.html). Other sources have also been used where necessary, and appropriate references are provided within the relevant sections of the tutorials.
@@ -37,3 +69,7 @@ If you notice any unreferenced content, mistakes, or have any feedback, feel fre
 ## License
 
 Feel free to use these materials, but please give proper credit to **Burak KILIC** for the work.
+
+### Additional Notes:
+- Make sure to include a `requirements.txt` file with the necessary libraries, like `scikit-learn`, `numpy`, `matplotlib`, and any other dependencies used in the notebooks.
+- The provided installation instructions assume basic familiarity with Git, Python virtual environments, and Jupyter Notebook.
