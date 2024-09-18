@@ -24,6 +24,7 @@ This repository contains the following tutorials, each focusing on key topics in
 - **6_convolutional_neural_networks.ipynb**  
    An introduction to Convolutional Neural Networks (CNNs), designed for image classification tasks.
 
+
 ## Installation
 
 To run these notebooks locally, follow the steps below:
@@ -89,11 +90,13 @@ The primary source of reference for the tutorials is the official [scikit-learn 
   Email: [alitaner.kuzu@isikun.edu.tr](mailto:alitaner.kuzu@isikun.edu.tr)
 
 
-## Usage
+## Usage and Feedback
 
 You are welcome to use and adapt the content in these tutorials for your learning or teaching purposes, as long as you provide proper attribution to the author. Please ensure that any referenced material is properly credited.
 
 If you notice any unreferenced content, mistakes, or have any feedback, feel free to contact me (Burak KILIC) or open an issue in this repository.
+
+Contributions are welcome! Feel free to provide feedback or suggest improvements by contacting the authors or opening an issue in this repository.
 
 
 ## License
