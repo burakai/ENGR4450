@@ -75,7 +75,7 @@ The primary source of reference for the tutorials is the official [scikit-learn 
   Department: Mechanical Engineering  
   Email: [burak.kilic@isikun.edu.tr](mailto:burak.kilic@isikun.edu.tr)
 
-- **Assoc. Prof. Ali Taner KUZU**: Supervisor of the course and tutorials at Işık University.  
+- **Assoc. Prof. Ali Taner KUZU**: Supervisor of the course at Işık University.  
   Department: Mechanical Engineering  
   Email: [alitaner.kuzu@isikun.edu.tr](mailto:alitaner.kuzu@isikun.edu.tr)
 
