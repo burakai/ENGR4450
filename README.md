@@ -6,11 +6,11 @@ Welcome to the official repository for **ENGR4450 - Applied Artificial Intellige
 
 This repository contains the following tutorials, each focusing on key topics in applied artificial intelligence:
 
-- **1_intro_to_linear_models_and_scikit_learn.ipynb**  
+- **1_intro_to_scikit_learn-linear_models.ipynb**  
    An introduction to linear models and an overview of the `scikit-learn` library for AI and machine learning in Python.
 
 - **2_linear_models.ipynb**  
-   Detailed exploration of linear models including Linear Regression, Ridge, Lasso, and ElasticNet.
+   Detailed exploration of bias vs. variance tradeoff and underfitting vs. overfitting.
 
 - **3_k_nearest_neighbors.ipynb**  
    Explanation and implementation of the K-Nearest Neighbors (KNN) algorithm.
