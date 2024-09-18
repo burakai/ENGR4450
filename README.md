@@ -42,7 +42,7 @@ It is recommended to create a conda environment to isolate dependencies:
 conda create -n engr4450 python=3.12
 conda activate engr4450
 ```
-** Alternative: Using `venv`**
+**Alternative: Using `venv`**
 
 You can also create a virtual environment using Python’s built-in venv module:
 
