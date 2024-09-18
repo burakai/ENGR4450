@@ -68,6 +68,19 @@ However, please be aware that Google Colab may not render some components, such 
 
 The primary source of reference for the tutorials is the official [scikit-learn documentation](https://scikit-learn.org/stable/documentation.html). Other sources have also been used where necessary, and appropriate references are provided within the relevant sections of the tutorials.
 
+## Authors
+
+## Authors
+
+- **Burak KILIC**: Course Assistant, primary developer of the tutorials.  
+  Department: Mechanical Engineering  
+  Email: [burak.kilic@isikun.edu.tr](mailto:burak.kilic@isikun.edu.tr)
+
+- **Assoc. Prof. Ali Taner KUZU**: Supervisor of the course and tutorials at Işık University.  
+  Department: Mechanical Engineering  
+  Email: [alitaner.kuzu@isikun.edu.tr](mailto:alitaner.kuzu@isikun.edu.tr)
+
+
 ## Usage
 
 You are welcome to use and adapt the content in these tutorials for your learning or teaching purposes, as long as you provide proper attribution to the author. Please ensure that any referenced material is properly credited.
@@ -76,4 +89,13 @@ If you notice any unreferenced content, mistakes, or have any feedback, feel fre
 
 ## License
 
-Feel free to use these materials, but please give proper credit to **Burak KILIC** for the work.
+## License
+
+This repository and its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the materials in this repository for personal or educational purposes, provided that proper attribution is given to the original authors. 
+
+### Conditions
+1. **Attribution**: Any distributed or modified version of this work must include the original authors' names and the link to the repository.
+2. **No Warranty**: The materials are provided "as-is," without any warranty of any kind, express or implied.
+
+If you have any questions about the license or usage of this repository, please feel free to contact the authors.
+
