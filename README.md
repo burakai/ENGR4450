@@ -68,7 +68,6 @@ However, please be aware that Google Colab may not render some components, such 
 
 The primary source of reference for the tutorials is the official [scikit-learn documentation](https://scikit-learn.org/stable/documentation.html). Other sources have also been used where necessary, and appropriate references are provided within the relevant sections of the tutorials.
 
-## Authors
 
 ## Authors
 
