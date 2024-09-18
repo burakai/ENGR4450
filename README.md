@@ -34,9 +34,18 @@ To run these notebooks locally, follow the steps below:
 git clone https://github.com/burakai/ENGR4450.git
 cd ENGR4450
 ```
-### 2. Set up a virtual environment (optional but recommended)
+### 2. Set up a virtual environment (using `conda`)
 
-It is recommended to create a virtual environment to isolate dependencies.
+It is recommended to create a conda environment to isolate dependencies:
+
+```bash
+conda create -n engr4450 python=3.12
+conda activate engr4450
+```
+** Alternative: Using `venv`
+
+You can also create a virtual environment using Python’s built-in venv module:
+
 ```bash
 python -m venv env
 source env/bin/activate   # On Windows use `env\Scripts\activate`
