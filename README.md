@@ -87,7 +87,6 @@ You are welcome to use and adapt the content in these tutorials for your learnin
 
 If you notice any unreferenced content, mistakes, or have any feedback, feel free to contact me (Burak KILIC) or open an issue in this repository.
 
-## License
 
 ## License
 
