@@ -75,7 +75,3 @@ If you notice any unreferenced content, mistakes, or have any feedback, feel fre
 ## License
 
 Feel free to use these materials, but please give proper credit to **Burak KILIC** for the work.
-
-### Additional Notes:
-- Make sure to include a `requirements.txt` file with the necessary libraries, like `scikit-learn`, `numpy`, `matplotlib`, and any other dependencies used in the notebooks.
-- The provided installation instructions assume basic familiarity with Git, Python virtual environments, and Jupyter Notebook.
