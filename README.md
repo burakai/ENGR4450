@@ -79,11 +79,13 @@ The primary source of reference for the tutorials is the official [scikit-learn 
 ## Authors
 
 - **Burak KILIC**: Course Assistant, primary developer of the tutorials.  
-  Department: Mechanical Engineering  
+  Department: Mechanical Engineering
+  Office: LMF 121
   Email: [burak.kilic@isikun.edu.tr](mailto:burak.kilic@isikun.edu.tr)
 
 - **Assoc. Prof. Ali Taner KUZU**: Supervisor of the course at Işık University.  
-  Department: Mechanical Engineering  
+  Department: Mechanical Engineering
+  Office: AMF 426
   Email: [alitaner.kuzu@isikun.edu.tr](mailto:alitaner.kuzu@isikun.edu.tr)
 
 
