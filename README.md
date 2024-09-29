@@ -21,9 +21,6 @@ This repository contains the following tutorials, each focusing on key topics in
 - **5_neural_networks.ipynb**  
    Introduction to artificial neural networks (ANNs), covering the basics of perceptrons and multi-layer perceptrons (MLPs).
 
-- **6_convolutional_neural_networks.ipynb**  
-   An introduction to Convolutional Neural Networks (CNNs), designed for image classification tasks.
-
 
 ## Installation
 
