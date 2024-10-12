@@ -69,7 +69,7 @@ This will open Jupyter in your default web browser. You can navigate to the note
 
 Alternatively, you can click the ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) button next to each notebook title to open it in Google Colab.
 
-However, please be aware that Google Colab may not render some components, such as YouTube videos, as effectively as GitHub does.
+However, please be aware that Google Colab may not render some components, such as YouTube videos, as effectively. 
 
 ## Sources
 
